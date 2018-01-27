@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jboot/Jboot.iml" filepath="$PROJECT_DIR$/Jboot/Jboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Jfam.iml" filepath="$PROJECT_DIR$/.idea/Jfam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jperson/Jperson.iml" filepath="$PROJECT_DIR$/Jperson/Jperson.iml" />
     </modules>
