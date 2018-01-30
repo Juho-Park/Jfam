@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Demo" target="1.5" />
+      <module name="Demo" target="1.6" />
       <module name="Jboot" target="1.5" />
       <module name="Jfam" target="1.5" />
       <module name="Jperson" target="1.5" />
